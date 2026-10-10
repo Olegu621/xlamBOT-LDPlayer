@@ -1,0 +1,22 @@
+{
+  "manifest": {
+    "repository": "Olegu621/xlamBOT-LDPlayer",
+    "package_name": "com.supercell.brawlstars",
+    "version_code": 69414,
+    "version_name": "69.414",
+    "certificate": "731a29e80b7ca89c7e9b39d381821ee8dccd1b0456782f788650945e7d60d8d3",
+    "files": {
+      "base.apk": "13d35846a9878d831b08c04ebb3afe6a548aced26366577394900895b83f3d10",
+      "split_config.arm64_v8a.apk": "38d2e07fbc52d46401685b58edf7eb62e64d7ef3f793213d780ef60c78b5fc2c",
+      "split_config.en.apk": "753df18a256ec5f99856b70dd03ec127c4b2c192beb0212833bce719e763a441",
+      "split_config.hdpi.apk": "7a7b2f776213a53e79b6774ca3cbebbcec076028c519525c80c46bd0f7dc5066",
+      "split_install_time_asset_pack.apk": "d7b10346b79a05eef57133af609212c922b2db39af96694ae5bcecea59a99997"
+    },
+    "archive": {
+      "url": "https://github.com/Olegu621/xlamBOT-LDPlayer/releases/download/game-69414/brawlstars.zip",
+      "size": 1270678010,
+      "sha256": "ac35384d4187279033f2ee603693fc4d3b7b0cc409318da307923cd993100328"
+    }
+  },
+  "signature": "d56dde303da14c72166e9810df83b0048fef1dfdbad51207ab629c8f31c652d557a07941f3dff3c03df2dc358fd73da40b0c87078f88bf19c5ed94c7c5c8c40b"
+}
