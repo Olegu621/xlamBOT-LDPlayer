@@ -1,0 +1,28 @@
+{
+  "manifest": {
+    "repository": "Olegu621/xlamBOT-LDPlayer",
+    "revision": 1,
+    "edition_version": "1.2",
+    "base_version": "9.5.37.0",
+    "files": {
+      "dnplayer.exe": "267c7ce3a27445925127f7c46f7a617e3b68dd9d77922b45fe8be363809dd70a",
+      "dnplycore.dll": "2a88fa17a03890a4ae067c73e2965a3a8ebd168cd392c3255ac6c94c5a1573ac",
+      "dnresource.rcc": "7cea5bde9b818554b6d7a8ac891cc4d8714d51f8deeb7a6dc25f824458609456",
+      "guest/Settings-xlamBOT-system.apk": "6bd3aa195feff9b9c3d8fcd2b0f71a8109667fcfa49442956eef9c7342c276c7",
+      "guest/Trebuchet-LDPlayer.apk": "ac9beb4374dc30729484adcdacfd92da363d1387aeb15602d12c8e45e62724c7",
+      "xlambot-avatar.ico": "8cd940f777c6c66ac239386a85f6e44bc6bbd8a059154fc4e18e18646c94167d",
+      "xlambot-avatar.png": "b8917d05cd499f25806a810ba438b38dc58e85db7e67f767833a9c0bf59a93b1"
+    },
+    "base": {
+      "url": "https://github.com/Olegu621/xlamBOT-LDPlayer/releases/download/edition-1/LDPlayer_9.5.37.0.exe",
+      "size": 795779560,
+      "sha256": "accd633ee00972dbbf5d80ff09984d95e960b5a90e3b07192536b5e99df03080"
+    },
+    "package": {
+      "url": "https://github.com/Olegu621/xlamBOT-LDPlayer/releases/download/edition-1/edition.zip",
+      "size": 33146927,
+      "sha256": "984275e08a552a22572d083705a7c8eb4f465a4c644a3d2383eabdc1b6a9461d"
+    }
+  },
+  "signature": "913b626e9d7875f2e4c4efdcaad0a545ffb1e960f3970af62f058828f7164ca7c4cedf4c99e0c979499c0ad7251ce219e8cce6e15201dc7a3ed9bfefa71b7e08"
+}
